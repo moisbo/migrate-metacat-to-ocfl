@@ -1,0 +1,23 @@
+{
+  "name": "metacat-to-ocfl",
+  "version": "1.0.0",
+  "description": "Convert data and documents to OCFL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "metacat",
+    "ocfl"
+  ],
+  "author": "Moises Sacal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "fs-extra": "^10.1.0",
+    "lodash": "^4.17.21",
+    "oni-ocfl": "github:Arkisto-Platform/oni-ocfl",
+    "ro-crate": "github:Arkisto-Platform/ro-crate-js#develop-rewrite",
+    "xml2json": "^0.12.0"
+  }
+}
