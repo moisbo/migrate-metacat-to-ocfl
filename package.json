@@ -12,6 +12,10 @@
   ],
   "author": "Moises Sacal",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moisbo/migrate-metacat-to-ocfl"
+  },
   "dependencies": {
     "dotenv": "^16.0.2",
     "fs-extra": "^10.1.0",

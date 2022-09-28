@@ -1,0 +1,18 @@
+{
+  "public": {
+    "@id": "public",
+    "@type": "OrganizationReuseLicense",
+    "metadataIsPublic": true,
+    "allowTextIndex": true,
+    "name": "Public",
+    "description": "Data can be used by other researchers and excerpts can be played in public settings"
+  },
+  "private": {
+    "@id": "private",
+    "@type": "OrganizationReuseLicense",
+    "metadataIsPublic": true,
+    "allowTextIndex": false,
+    "name": "Private",
+    "description": "Data can be used by other researchers and excerpts cannot be played in public settings"
+  }
+}
